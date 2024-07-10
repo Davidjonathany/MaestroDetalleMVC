@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'CRUD David Jonathan Yépez Praoño';
+  title = 'CRUD de David Jonathan Yépez Praoño';
 }
